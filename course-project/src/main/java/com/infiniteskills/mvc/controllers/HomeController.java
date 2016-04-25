@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import com.infiniteskills.mvc.data.entities.Project;
 //dodao komentar
 //i ja ga dodao
+// proba sa druge strane
 @Controller
 public class HomeController {
 
