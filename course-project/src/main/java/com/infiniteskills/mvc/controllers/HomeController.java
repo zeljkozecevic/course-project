@@ -5,7 +5,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import com.infiniteskills.mvc.data.entities.Project;
-
+//dodao komentar
 @Controller
 public class HomeController {
 
